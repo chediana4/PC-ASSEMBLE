@@ -1,2 +1,3 @@
 # PC-ASSEMBLE
+![PC Assemble](PC ASSEMBLE.jpeg)<br>
 DATE : 12 NOVEMBER 2025
